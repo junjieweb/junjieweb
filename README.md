@@ -13,7 +13,7 @@
 
 **Languages and Tools​:computer:**  
 
-<code><img title="Javascript" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/javascript.svg"></code>
+<code><img title="JavaScript" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/javascript.svg"></code>
 <code><img title="TypeScript" height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img title="HTML5" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/html5.svg"></code>
 <code><img title="CSS3" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/css.svg"></code>
@@ -27,13 +27,13 @@
 <code><img title="NodeJS" height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img title="npm" height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png"></code>
 <code><img title="Yarn" height="25" src="https://avatars.githubusercontent.com/u/22247014?s=200&v=4"></code>
-<code><img title="git" height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img title="git" height="25" src="https://avatars.githubusercontent.com/u/18133?s=200&v=4"></code>
 <code><img title="JQuery" height="25" src="https://avatars.githubusercontent.com/u/70142?s=200&v=4"></code>
 <code><img title="Bootstrap" height="25" src="https://avatars.githubusercontent.com/u/2918581?s=200&v=4"></code>
 <code><img title="JSON" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/json.svg"></code>
 <code><img title="markdown" height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png"></code>
 <code><img title="ESLint" height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/eslint/eslint.png"></code>
+<code><img title="MDN Web Docs" height="25" src="https://avatars.githubusercontent.com/u/7565578?s=200&v=4"></code>
 
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
