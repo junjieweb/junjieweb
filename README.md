@@ -11,7 +11,7 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=junjieweb&layout=compact&hide_border=true&langs_count=5&hide=java)
 
-<!-- 
+
 **Languages and Tools​:computer:**  
 
 <code><img title="JavaScript" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/javascript.svg"></code>
@@ -35,7 +35,7 @@
 <code><img title="markdown" height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png"></code>
 <code><img title="ESLint" height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/eslint/eslint.png"></code>
 <code><img title="MDN Web Docs" height="25" src="https://avatars.githubusercontent.com/u/7565578?s=200&v=4"></code>
- -->
+
 
 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com)](https://github.com) 
