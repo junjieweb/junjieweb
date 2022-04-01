@@ -9,7 +9,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=junjieweb&layout=compact&hide_border=true&langs_count=15&hide=java)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=junjieweb&layout=compact&hide_border=true&langs_count=5&hide=java)
 
 <!-- 
 **Languages and Tools​:computer:**  
