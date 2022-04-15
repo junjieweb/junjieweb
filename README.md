@@ -12,7 +12,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...  -->
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=junjieweb&layout=compact&hide_border=true&langs_count=15)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=junjieweb&layout=compact&hide_border=false&langs_count=15&hide=java)
 
 [开源开发许可证 - 社区支持](https://www.jetbrains.com/zh-cn/community/opensource/#support)
 
@@ -22,7 +22,7 @@
 
 <!-- 
 **Languages and Tools​:computer:**  
-&hide=java
+
 <code><img title="JavaScript" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/javascript.svg"></code>
 <code><img title="TypeScript" height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img title="HTML5" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/html5.svg"></code>
