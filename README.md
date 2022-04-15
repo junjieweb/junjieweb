@@ -18,6 +18,8 @@
 
 [开源开发许可证 - 社区支持](https://www.jetbrains.com/zh-cn/community/opensource/#support)
 
+JetBrains 通过为核心项目贡献者免费提供一套一流的开发者工具来支持非商业开源项目。
+
 ![JetBrains Logo (Main) logo](https://resources.jetbrains.com/storage/products/company/brand/logos/jb_beam.svg)
 ![WebStorm logo](https://resources.jetbrains.com/storage/products/company/brand/logos/WebStorm.svg)
 
