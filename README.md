@@ -12,7 +12,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...  -->
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=junjieweb&layout=compact&hide_border=true&langs_count=5&hide=java)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=junjieweb&layout=compact&hide_border=true&langs_count=15&hide=java)
 
 [开源开发许可证 - 社区支持](https://www.jetbrains.com/zh-cn/community/opensource/#support)
 
