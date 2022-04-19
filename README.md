@@ -15,12 +15,46 @@
 [![Top Langs ](https://github-readme-stats.vercel.app/api/top-langs/?username=junjieweb&layout=compact&hide_border=true&langs_count=5)](https://github.com/junjieweb)
 [![Junjie's GitHub stats](https://github-readme-stats.vercel.app/api?username=junjieweb&show_icons=true)](https://github.com/junjieweb)
 
+
+
+### Languages and Tools​:computer:
+
+<img  src=".//images/logo/HTML5_logo_and_wordmark.svg.png" height="64" alt="HTML5"><img src="./images/logo/CSS3_logo_and_wordmark.svg.png" height="64" alt="CSS3">
+<img src="./images/logo/JavaScript_logo_2.svg" height="64" alt="JavaScript">
+<img src="./images/logo/Typescript_logo_2020.svg.png" height="64" alt="TypeScript">
+<img src="./images/logo/Vue.js_Logo_2.svg.png" height="64" alt="Vue.js">
+<img src="./images/logo/React-icon.svg.png" height="64" alt="React">
+<img src="./images/logo/Angular_full_color_logo.svg.png" height="64" alt="Angular">
+<img src="./images/logo/LESS_Logo.svg.png" height="64" alt="Less">
+<img src="./images/logo/Sass_Logo_Color.svg.png" height="64" alt="Sass">
+<img src="./images/logo/Git-logo.svg.png" height="64" alt="git">
+<img src="./images/logo/Markdown-mark-half.svg.png" height="64" alt="Markdown">
+<img src="./images/logo/Node.js_logo.svg.png" height="64" alt="Nodejs">
+<img src="./images/logo/Npm-logo.svg.png" height="64" alt="Npm">
+<img src="./images/logo/webpack.svg" height="64" alt="webpack">
+<img src="./images/logo/ESLint_logo.svg.png" height="64" alt="ESLint">
+<img src="./images/logo/github.svg.png" height="64" alt="GitHub">
+<img src="./images/logo/MDN_Web_Docs_logo.svg.png" height="64" alt="MDN">
+
+<img src="./images/logo/jb_beam.svg" height="64" alt="JetBrains Logo"><img src="./images/logo/WebStorm_icon.svg" height="64" alt="WebStorm">
+<img src="./images/logo/Visual_Studio_Code_1.35_icon.svg.png" height="64" alt="VScode">
+
 [开源开发许可证 - 社区支持](https://www.jetbrains.com/zh-cn/community/opensource/#support)
 
 JetBrains 通过为核心项目贡献者免费提供一套一流的开发者工具来支持非商业开源项目。
 
 ![JetBrains Logo (Main) logo](https://resources.jetbrains.com/storage/products/company/brand/logos/jb_beam.svg)
 ![WebStorm logo](https://resources.jetbrains.com/storage/products/company/brand/logos/WebStorm.svg)
+
+
+
+
+
+
+
+
+
+
 
 
 <!-- 
