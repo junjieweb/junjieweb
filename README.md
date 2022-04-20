@@ -42,7 +42,8 @@ JetBrains 通过为核心项目贡献者免费提供一套一流的开发者工�
 
 
 
-<!-- ### Languages and Tools​:computer:
+<!-- 本地版
+### Languages and Tools​:computer:
 
 <img src="./images/logo/HTML5_logo_and_wordmark.svg.png" height="64" alt="HTML5"><img src="./images/logo/CSS3_logo_and_wordmark.svg.png" height="64" alt="CSS3">
 <img src="./images/logo/JavaScript_logo_2.svg" height="64" alt="JavaScript">
@@ -56,7 +57,7 @@ JetBrains 通过为核心项目贡献者免费提供一套一流的开发者工�
 <img src="./images/logo/Markdown-mark-half.svg.png" height="64" alt="Markdown">
 
 <img src="./images/logo/Node.js_logo.svg.png" height="64" alt="Nodejs"><img src="./images/logo/Npm-logo.svg.png" height="64" alt="Npm">
-<img src="./images/logo/webpack.svg" height="64" alt="webpack">
+<img src="./images/logo/webpack_logo.svg" height="64" alt="webpack">
 <img src="./images/logo/ESLint_logo.svg.png" height="64" alt="ESLint">
 <img src="./images/logo/github.svg.png" height="64" alt="GitHub">
 
