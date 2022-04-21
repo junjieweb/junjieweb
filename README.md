@@ -3,9 +3,14 @@
 - I'm an open source enthusiast.
 - Email: junjieweb@qq.com
 
-[![Top Langs ](https://github-readme-stats.vercel.app/api/top-langs/?username=junjieweb&layout=compact&hide_border=true&langs_count=5)](https://github.com/junjieweb)
-[![Junjie's GitHub stats](https://github-readme-stats.vercel.app/api?username=junjieweb&show_icons=true)](https://github.com/junjieweb)
+<div style="display:flex;flex:1">
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=junjieweb&layout=compact&hide_border=false&langs_count=5">
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=junjieweb&show_icons=true">
+</div>
 
+<!-- [![Top Langs ](https://github-readme-stats.vercel.app/api/top-langs/?username=junjieweb&layout=compact&hide_border=true&langs_count=5)](https://github.com/junjieweb)
+[![Junjie's GitHub stats](https://github-readme-stats.vercel.app/api?username=junjieweb&show_icons=true)](https://github.com/junjieweb)
+ -->
  
 ### Languages and Tools​:computer:
 
