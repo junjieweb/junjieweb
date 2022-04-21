@@ -21,7 +21,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Markdown-mark-half.svg/640px-Markdown-mark-half.svg.png" height="64" alt="Markdown">
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/640px-Node.js_logo.svg.png" height="64" alt="Nodejs"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/640px-Npm-logo.svg.png" height="64" alt="Npm">
-<img src="https://webpack.docschina.org/icon-square-small.85ba630cf0c5f29ae3e3.svg" height="64" alt="webpack">
+<img src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-icon.svg" height="64" alt="webpack">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/ESLint_logo.svg/640px-ESLint_logo.svg.png" height="64" alt="ESLint">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/GitHub_Mark.png/640px-GitHub_Mark.png" height="64" alt="GitHub">
 
