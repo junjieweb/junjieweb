@@ -3,13 +3,9 @@
 - I'm an open source enthusiast.
 - Email: junjieweb@qq.com
 
-<div style="display:flex;flex:1">
- <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=junjieweb&layout=compact&hide_border=false&langs_count=5">
- <img height="180" src="https://github-readme-stats.vercel.app/api?username=junjieweb&show_icons=true">
-</div>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=junjieweb&layout=compact&hide_border=false&langs_count=5"><img height="180" src="https://github-readme-stats.vercel.app/api?username=junjieweb&show_icons=true">
 
- 
-### Languages and Tools​:computer:
+## Languages and Tools​:computer:
 
 <img  src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" height="64" alt="HTML5"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" height="64" alt="CSS3">
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Javascript_Logo.png" height="64" alt="JavaScript">
