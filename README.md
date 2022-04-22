@@ -1,8 +1,5 @@
 # Hi there 👋 I am Front-end web developer Junjie.
 
-- I'm an open source enthusiast.
-- Email: junjieweb@qq.com
-
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=junjieweb&layout=compact&hide_border=false&langs_count=5"><img height="180" src="https://github-readme-stats.vercel.app/api?username=junjieweb&show_icons=true">
 
 ## Languages and Tools​:computer:
@@ -27,7 +24,7 @@
 <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/jb_beam.svg" height="64" alt="JetBrains Logo"><img src="https://resources.jetbrains.com/storage/products/company/brand/logos/WebStorm_icon.svg" height="64" alt="WebStorm">
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" height="64" alt="VScode">
 
-[开源开发许可证 - 社区支持](https://www.jetbrains.com/zh-cn/community/opensource/#support)
+### [开源开发许可证 - 社区支持](https://www.jetbrains.com/zh-cn/community/opensource/#support)
 
 JetBrains 通过为核心项目贡献者免费提供一套一流的开发者工具来支持非商业开源项目。
 
