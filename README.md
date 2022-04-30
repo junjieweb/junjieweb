@@ -3,6 +3,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junjieweb&layout=compact&hide_border=false&langs_count=5">
 <img src="https://github-readme-stats.vercel.app/api?username=junjieweb&show_icons=true">
 <!-- <img height="180" src="https://github-readme-stats.vercel.app/api?username=junjieweb&show_icons=true"> -->
+
 ## Languages and Tools​:computer:
 
 <img  src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" height="64" alt="HTML5"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" height="64" alt="CSS3">
@@ -33,11 +34,6 @@ JetBrains 通过为核心项目贡献者免费提供一套一流的开发者工�
 
 
 
-
-
-
-
-
 <!-- 本地版
 ### Languages and Tools​:computer:
 
@@ -63,28 +59,9 @@ JetBrains 通过为核心项目贡献者免费提供一套一流的开发者工�
 <img src="./images/logo/Visual_Studio_Code_1.35_icon.svg.png" height="64" alt="VScode"> 
 -->
 
-
-
-
-
-
-
-
-
-
-
-
 <!-- 
 **Languages and Tools​:computer:**  
 
-<code><img title="JavaScript" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/javascript.svg"></code>
-<code><img title="TypeScript" height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img title="HTML5" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/html5.svg"></code>
-<code><img title="CSS3" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/css.svg"></code>
-<code><img title="Less" height="25" src="https://avatars.githubusercontent.com/u/3538330?s=200&v=4"></code>
-<code><img title="Vue" height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img title="React" height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img title="Angular" height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
 <code><img title="Webpack" height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png"></code>
 <code><img title="Babel" height="25" src="https://raw.githubusercontent.com/github/explore/cb39e2385dfcec8a661d01bfacff6b1e33bbaa9d/topics/babel/babel.png"></code>
 
@@ -95,9 +72,6 @@ JetBrains 通过为核心项目贡献者免费提供一套一流的开发者工�
 <code><img title="JQuery" height="25" src="https://avatars.githubusercontent.com/u/70142?s=200&v=4"></code>
 <code><img title="Bootstrap" height="25" src="https://avatars.githubusercontent.com/u/2918581?s=200&v=4"></code>
 <code><img title="JSON" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/json.svg"></code>
-<code><img title="markdown" height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png"></code>
-<code><img title="ESLint" height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/eslint/eslint.png"></code>
-<code><img title="MDN Web Docs" height="25" src="https://avatars.githubusercontent.com/u/7565578?s=200&v=4"></code> 
 -->
  
  
@@ -115,6 +89,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-
