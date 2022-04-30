@@ -1,7 +1,8 @@
 # Hi there 👋 I am Front-end web developer Junjie.
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=junjieweb&layout=compact&hide_border=false&langs_count=5"><img height="180" src="https://github-readme-stats.vercel.app/api?username=junjieweb&show_icons=true">
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junjieweb&layout=compact&hide_border=false&langs_count=5">
+<img src="https://github-readme-stats.vercel.app/api?username=junjieweb&show_icons=true">
+<!-- <img height="180" src="https://github-readme-stats.vercel.app/api?username=junjieweb&show_icons=true"> -->
 ## Languages and Tools​:computer:
 
 <img  src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" height="64" alt="HTML5"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" height="64" alt="CSS3">
