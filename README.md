@@ -33,7 +33,7 @@ JetBrains 通过为核心项目贡献者免费提供一套一流的开发者工�
 
 
 
-<!-- 本地版
+<!--本地版
 ### Languages and Tools​:computer:
 
 <img src="./images/logo/HTML5_logo_and_wordmark.svg" height="64" alt="HTML5"><img src="./images/logo/CSS3_logo_and_wordmark.svg" height="64" alt="CSS3">
@@ -42,16 +42,14 @@ JetBrains 通过为核心项目贡献者免费提供一套一流的开发者工�
 <img src="./images/logo/Vue.js_Logo_2.svg" height="64" alt="Vue.js">
 <img src="./images/logo/React_logo.svg" height="64" alt="React">
 <img src="./images/logo/Angular_logo.svg" height="64" alt="Angular">
-
 <img src="./images/logo/LESS_Logo.svg" height="64" alt="Less"><img src="./images/logo/Sass_Logo_Color.svg" height="64" alt="Sass">
-<img src="./images/logo/Git-logo.svg" height="64" alt="git">
 <img src="./images/logo/Markdown-mark.svg" height="64" alt="Markdown">
 
 <img src="./images/logo/Node.js_logo.svg" height="64" alt="Nodejs"><img src="./images/logo/Npm-logo.svg" height="64" alt="Npm">
+<img src="./images/logo/Git-logo.svg" height="64" alt="git">
 <img src="./images/logo/webpack_logo.svg" height="64" alt="webpack">
 <img src="./images/logo/ESLint_logo.svg" height="64" alt="ESLint">
 <img src="./images/logo/Octicons-mark-github.svg" height="64" alt="GitHub">
-
 <img src="./images/logo/MDN_Web_Docs_logo.svg" height="64" alt="MDN">
 
 <img src="./images/logo/jb_beam.svg" height="64" alt="JetBrains Logo"><img src="./images/logo/WebStorm_icon.svg" height="64" alt="WebStorm">
