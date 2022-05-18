@@ -1,7 +1,7 @@
 # Hi there 👋 I am Front-end web developer Junjie.
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junjieweb&layout=compact&hide_border=false&langs_count=5">
-<img src="https://github-readme-stats.vercel.app/api?username=junjieweb&show_icons=true">
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junjieweb&layout=compact&hide_border=false&langs_count=5">
+<img src="https://github-readme-stats.vercel.app/api?username=junjieweb&show_icons=true"> -->
 
 ## Languages and Tools​:computer:
 
